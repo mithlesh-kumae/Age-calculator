@@ -89,7 +89,7 @@ screenshots/home.png
 
 **Mithlesh Kumar**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/mithlesh-kumae
 
 LinkedIn: https://linkedin.com/in/your-profile
 
