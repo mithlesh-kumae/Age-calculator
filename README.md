@@ -91,7 +91,7 @@ screenshots/home.png
 
 GitHub: https://github.com/mithlesh-kumae
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: www.linkedin.com/in/mithlesh-kumar-softeng027
 
 ---
 
